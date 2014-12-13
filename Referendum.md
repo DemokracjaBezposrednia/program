@@ -1,19 +1,47 @@
-Referendum to podstawowy i sztandarowy instrument demokracji bezpośredniej. W drodze referendum Naród wyraża swą wolę i faktycznie pełni rolę suwerena w państwie. Aktualnie w Polsce instytucja referendum jest poważnie ograniczona. Mamy do czynienia z "fasadowym" referendum, które sprawia wrażenie instrumentu demokracji, a jest de facto jedynie jej pozorem. Przede wszystkim wniosek o referendum podpisany przez 500 tys. obywateli złożony do Sejmu, podlega w Sejmie głosowaniu.
+Art. 1 Konstytucji stwierdza, że państwo jest własnością wszystkich obywateli. Art. 4. gwarantuje nam sprawowanie władzy nie tylko przez przedstawicieli, ale też bezpośrednio.
 
-Oznacza to, że jeśli wniosek ten niezgodny jest z wolą większości Sejmu (a zatem - większości rządowej), referendum nie ma prawa się odbyć. Efekt jest oczywisty - niemożliwe jest zablokowanie w drodze obywatelskiego referendum projektu ustawy, którego inicjatorem jest rząd. Istnieje także katalog spraw, których referendum nie może dotyczyć. To niedemokratyczne ograniczenie naszej suwerenności. W Polsce nie funkcjonuje ponadto przymusowe referendum w jakiejkolwiek sprawie. Oznacza to, że najważniejsze dla nas decyzje (wstąpienie do organizacji międzynarodowej czy zmiana Konstytucji) mogą odbywać się bez naszej zgody. Taki stan rzeczy czyni z Narodu niewolnika swojego rządu wybranego raz na cztery lata, nie zaś suwerena i strażnika własnych praw. Dlatego partia Demokracja Bezpośrednia wprowadzi następujące zmiany w instytucji referendum:
+Referendum – czyli głosowanie powszechne – to podstawowe narzędzie bezpośredniego sprawowania władzy przez obywateli, a także najskuteczniejsza forma nadzoru właścicielskiego. Mimo to, instytucja referendum została w polskim prawie poważnie ograniczona. Uważamy to za naruszenie fundamentalnych praw obywatelskich, niszczące poczucie związku z państwem, odpowiedzialności za to państwo, i hamujące rozwój społeczeństwa obywatelskiego.
 
-1. Wniosek o referendum na temat dowolnego projektu ustawy lub umowy międzynarodowej, podpisany przez 500 tys. obywateli i złożony na ręce Marszałka Sejmu staje się wnioskiem wiążącym dla Sejmu. Sejm zobligowany jest do przeprowadzenia ogólnokrajowego referendum w ciągu 60 dni od złożenia wniosku. Wniosek nie podlega głosowaniu w Sejmie.
+Demokracja Bezpośrednia wprowadzi następujące zmiany w instytucji referendum, tak aby Naród mógł realnie wyrażać swa wolę i stać się pełnoprawnym suwerenem w państwie:
 
-2. Referendum nie może posiadać wymogu frekwencji by było uznane za ważne, jak ma to miejsce obecnie. Bez względu na frekwencję, wynik referendum jest wiążący dla polskiego Parlamentu.
+## 1. Referenda obligatoryjne
+Obecnie obywatelskie wnioski referendalne nie są wiążące. Wniosek o referendum złożony przez 500 tysięcy obywateli podlega decyzji Sejmu - i do tej pory Sejm nie zaakceptował żadnego z nich.
 
-3. Przedmiotem referendum może być każda sprawa państwowa. Katalog spraw, które nie mogą być przedmiotem referendum zostaje zniesiony. Wola Narodu jest najwyższą wolą w państwie.
+Referendum będzie musiało się odbyć, gdy:
 
-4. W związku ze zniesieniem katalogu spraw, które nie mogą być przedmiotem referendum, treść wniosku o referendum przestaje podlegać weryfikacji ze strony Państwowej Komisji Wyborczej. Państwowa Komisja Wyborcza sprawdza jedynie poprawność formalną wniosku (np. ilość zebranych podpisów).
+1. Do Prezydenta trafi wniosek 500 tys. obywateli postulujących zmianę części lub całości ustawy lub Konstytucji ([[Inicjatywa obywatelska]]).
+2. Do Prezydenta trafi wniosek 200 tys. obywateli sprzeciwiających się wprowadzeniu przez Sejm konkretnego aktu normatywnego ([[Weto obywatelskie]]).
+3. Sejm przegłosuje zmianę części lub całości Konstytucji.
+4. Sejm przegłosuje dołączenie do nowej organizacji międzynarodowej.
+5. Sejm przegłosuje dokonanie interwencji zbrojnej poza granicami kraju - za wyjątkiem interwencji w ramach działalności organizacji międzynarodowych, których Polska jest członkiem (patrz [[Obronność państwa]])
+6. Sejm zdecyduje się zwiększyć dług publiczny (patrz [[Zasada zrównoważonego budżetu]]).
 
-5. Przedmiotem referendum może być konkretny projekt ustawy lub konkretny przepis. W związku z tym pytanie zawsze formułowane jest: "Czy jesteś za przyjęciem projektu ustawy X z dnia Y" lub "Czy jesteś za przyjęciem przepisu art. Z ust. ZZ z projektu ustawy X z dnia Y". Dopuszczalne jest pytanie polegające na wyborze projektu. Jasne sformułowanie szablonu pytania zapobiegnie manipulacji pytaniem referendalnym.
+## 2. Zniesienie wymogu 50% frekwencji
+Demokracja Bezpośrednia zlikwiduje wymóg 50% frekwencji. Ogranicza on skuteczność sprawowania władzy przez obywateli. Wymaganie to jest nielogiczne, skoro w wyborach przedstawicieli do Sejmu nie ma żadnego progu frekwencji i istnieje możliwość, aby stanowiący prawo posłowie zostali wybrani przez 10% obywateli! Kraje o ugruntowanej demokracji osiągają frekwencję 40%.
 
-6. Do każdego głosowania załączona zostaje referendalna broszura objaśniająca (ang. voter information guide), która przybliża obywatelowi przedmiot referendum. Broszura ma ścisły, ustawowo uregulowany układ. Opracowuje ją organ niezależny od partii - Biuro Analiz Sejmowych. Broszura składa się z 3 części: zwięzłego streszczenia projektu głosowanego w referendum, podsumowania co oznacza głos "za" lub "przeciw" oraz z argumentacji stron. By załączyć argument do broszury należy zebrać pod nim 25 tys. podpisów.
+## 3. Procedura referendum
+Demokracja Bezpośrednia wymaga przemyślanych procedur i wzorców. Referendum to coś więcej niż ankieta. Referendum to proces umocowany prawnie. Podstawowe etapy tego procesu to:
 
-7. Konstytucja musi przewidywać obowiązkowe referendum w przypadku działań ze strony Sejmu na rzecz zmiany lub całkowitej rewizji Konstytucji, członkostwa Polski w organizacjach międzynarodowych, interwencji zbrojnej poza granicami kraju, za wyjątkiem interwencji w ramach działalności organizacji międzynarodowych, których Polska jest członkiem (patrz [[Obronność państwa]]) oraz w przypadku zwiększenia długu publicznego (patrz [[Zasada zrównoważonego budżetu]]).
+1. WNIOSEK obywateli / sejmu
+2. DEBATA publiczna
+3. GŁOSOWANIE W REFERENDUM
 
-Wiążący wniosek o referendum sprawia, że polityk tworzący prawo zmuszony jest do szerokich konsultacji społecznych i jawności działań nad projektem ustawy, który zaproponuje w Sejmie. Inaczej ryzykuje, że budżet poniesie koszty ogólnokrajowego referendum, a jego projekt może upaść. To mogłoby narazić pomysłodawcę projektu na odwołanie z funkcji (recall), a jego partię na utratę zaufania wyborców. W Szwajcarii gdzie referendum stosuje się na szeroką skalę, jedynie 7% wszystkich projektów ustaw podlega głosowaniu w referendum ogólnokrajowym. Pozostałe 93% nie budzi żadnego sprzeciwu społecznego, ponieważ władza tworzy prawo jawnie i w oparciu o konsultacje z obywatelami. Referendum to główny instrument kontroli rządu przez obywateli.
+Wniosek. Przedmiotem referendum będzie zawsze konkretny przepis prawny, jednolity w formie i materii.
+
+Debata publiczna będzie niezbędnym elementem procesu referendalnego. Debata
+
+* będzie wykorzystywać publiczną telewizję oraz publiczne narzędzia informatyczne,
+* będzie miała określony ustawowo minimalny czas trwania,
+* pozwoli wypowiedzieć się inicjatorom i oponentom wniosku, ekspertom obu stron a także zwykłym obywatelom,
+* umożliwi syntezę argumentacji stron oraz analiz w formie broszury referendalnej
+
+Broszura referendalna będzie obowiązkowo załączona do każdego głosowania, by objaśnić referendum w przystępnej formie. Broszura będzie miała ścisły, ustawowo uregulowany układ:
+
+* pełna treść proponowanych zmian,
+* zwięzłe streszczenie projektu głosowanego w referendum,
+* podsumowanie - co oznacza głos "za" lub "przeciw",
+* argumentację stron. Aby załączyć argument należy zebrać pod nim 25 tys. podpisów.
+
+Organem wspierającym proces referendalny będzie Biuro Analiz Sejmowych, które dokonywać będzie analizy skutków prawnych, wskazywać niezbędne poprawki i uzupełnienia do projektów, tak by wykonując wolę obywateli zachować spójność prawa. Biuro będzie także odpowiedzialne za przygotowanie broszury referendalnej.
+
+Głosowanie (tajne, bezpośrednie, równe i powszechne) odbywać się będzie dwa razy w roku, na wiosnę i na jesieni. Wniosek musi być odpowiednio wcześnie wniesiony, by był głosowany. Wynik głosowania jest wiążący.

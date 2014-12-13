@@ -7,7 +7,7 @@ Wprowadzenie demokracji bezpośredniej uczyni Polskę państwem, w którym obywa
 Partia Demokracja Bezpośrednia wprowadzi w Polsce: nowoczesne referendum, prawo odwołania polityka w trakcie kadencji, możliwość obywatelskiego weta wobec szkodliwego prawa, ułatwioną możliwość wnoszenia projektów zmian w prawie przez obywateli, a także warunki dla pełnego udziału w demokracji za pośrednictwem elektronicznego systemu głosowania.
 
 * [[Referendum]]
-* [[Odwołanie (Recall)]]
-* [[Weto ludowe]]
-* [[Obywatelska inicjatywa ustawodawcza]]
+* [[Inicjatywa obywatelska]]
+* [[Weto obywatelskie]]
 * [[Elektroniczne głosowanie]]
+* [[Odwołanie (Recall)]]
