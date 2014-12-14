@@ -1,0 +1,9 @@
+Wszyscy codziennie ponosimy w pracy odpowiedzialność za jej efekty. W Polsce urzędnicy postrzegani są jako wyjęta spoza wszelkiej odpowiedzialności, bezproduktywna, a do tego bardzo liczebna grupa. Znane są liczne przypadki samowoli urzędników. Procesy przedsiębiorców, których aparat urzędniczy skazał na bankructwo, czy niedawna sprawa grupy ponad 100 przedsiębiorców, która złożyła zbiorowy pozew przeciwko ZUS, to tylko bardziej spektakularne przypadki.
+
+W lutym 2012 roku weszła w życie nowelizacja ustawy, której treścią jest stworzenie ram odpowiedzialności urzędników. Według ustawy urzędnik odpowiadać może za błąd jedynie do dwunastokrotności swojej pensji. Odpowiedzialność konkretnej jednostki ustala się na podstawie metryki sprawy. Czy są to regulacje wystarczające? Czy dwunastokrotność pensji urzędnika wystarczy na pokrycie szkód liczonych w wielu set tysiącach złotych? Partia Demokracja Bezpośrednia uważa proces wyciągania konsekwencji wobec urzędników za skomplikowany, a odszkodowania uzyskane tą drogą za niesatysfakcjonujące. Dlatego Demokracja Bezpośrednia:
+
+1. Zniesie próg odpowiedzialności urzędnika, ustalony jako dwunastokrotność jego pensji. Urzędnik będzie mógł ubezpieczyć się od błędnych decyzji ale o tym, czy ubezpieczenia te powinny być obowiązkowe zadecyduje w perspektywie czasu praktyka oraz wola obywateli.
+
+2. Zobowiąże urzędników wyższego szczebla, którzy wzięli udział w procesie wydawania decyzji lub zobligowani byli do nadzoru tego procesu, do ponoszenia odpowiedzialności razem z urzędnikiem wskazanym przez prokuratora jako sprawca błędu. W ten sposób suma odszkodowania wypłaconego obywatelowi zwiększy się niewspółmiernie.
+
+3. Ureguluje kwestię prowadzenia metryk spraw administracyjnych. Metryki takie są wewnętrznymi aktami administracji. Za decyzję ponosić będą odpowiedzialność osoby, które się pod nią podpisały, a nie te, na które wskaże metryka decyzji.

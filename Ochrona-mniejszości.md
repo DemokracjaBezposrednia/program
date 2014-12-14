@@ -1,0 +1,10 @@
+Przeciwko systemowi demokracji bezpośredniej podnosi się bardzo często zarzut tzw. dyktatu większości. Zgodnie z badaniami politologów, ustrój demokracji bezpośredniej mógłby negatywnie wpływać na ochronę interesów mniejszości strukturalnych w państwie.
+
+Jako członkowie partii Demokracja Bezpośrednia nie zgadzamy się w pełni z tą opinią. Podzielamy pogląd naukowców, którzy twierdzą, że skutki demokracji bezpośredniej w dużym stopniu uzależnione są od instytucjonalnego środowiska. Nie można zapominać, że na osi konfliktu między obywatelami a elitami władzy zarówno członkowie mniejszości jak i reprezentacji większości tracą, jeśli pozbawieni zostają praw demokracji bezpośredniej. Badania Szwajcarów dowodzą, że demokracja bezpośrednia nie wpływa negatywnie na pozycję mniejszości. Raczej hamuje proponowane przez te mniejszości postulaty, nie pogarszając jednak ich status quo.
+
+Pomimo tych spostrzeżeń partia Demokracja Bezpośrednia wprowadzi następujące mechanizmy chroniące mniejszości:
+
+1. Projekt ustawy złożony w drodze inicjatywy ustawodawczej podlegać będzie fakultatywnej weryfikacji przez Trybunał Konstytucyjny - jeżeli inicjatywa naruszałaby prawa mniejszości, projekt będzie uznawany za całkowicie lub częściowo nieważny.
+2. Partia powoła Instytut Demokracji Bezpośredniej. Jedna z komórek Instytutu wyspecjalizowana będzie w monitorowaniu projektów ustaw pod względem ich wpływu na interesy mniejszości strukturalnych. Wydział ten składać się będzie z prawników specjalizujących się w tematyce praw człowieka.
+3. Dzięki wprowadzeniu kanału TVP Debata (patrz [[Wolne mass media]]), odpowiedni czas antenowy telewizji państwowej przeznaczony będzie dla przedstawicieli mniejszości dla reprezentowania swoich racji.
+4. Do referendów załączana będzie broszura, której jedną z części przeznaczona jest na argumentację stron (patrz [[Referendum]]). Próg wymaganych podpisów na rzecz zamieszczenia argumentów grup mniejszościowych zostanie obniżony do 10 tys. podpisów.

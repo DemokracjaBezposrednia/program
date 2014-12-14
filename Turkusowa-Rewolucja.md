@@ -1,0 +1,13 @@
+Partia Demokracja Bezpośrednia ustanowiła turkus barwą organizacyjną dla oznaczenia dziejącej się właśnie rewolucji społecznej. Turkusowa Rewolucja to nic innego jak droga polskiego społeczeństwa do ustroju demokracji bezpośredniej. Demokracja bezpośrednia jest ustrojem dotąd w Polsce nieosiągniętym w stopniu oczekiwanym społecznie. Dziś wprowadzenie demokracji bezpośredniej w odpowiednio zintegrowanym społeczeństwie jest możliwe, lecz nie chcą do tego dopuścić wpływowe grupy interesu sterujące elitami władzy.
+
+W rozdziale niniejszym, partia Demokracja Bezpośrednia zostanie przedstawiona jako spójny i perspektywiczny projekt polityczny. To co chcemy zmienić w Polsce zostało omówione w poprzednich rozdziałach. W tym rozdziale natomiast omówione zostanie jak zamierzamy sprawić, by nasze propozycje dla Polski stały się faktem.
+
+Działamy na rzecz społecznych i politycznych przemian, które wprowadzą w Polsce ustrój demokracji bezpośredniej rozumianej jako system polityczny, w którym decyzje państwowe podejmuje się przez głosowania wszystkich obywateli. Ustrój ciągłej debaty publicznej na najważniejsze problemy artykułowane przez różne grupy społeczne przy jednoczesnym poszukiwaniu kompromisów pomiędzy nimi.
+
+Aby osiągnąć ten cel ustalamy trzy zasady jako matrycę dla przyszłych jej władz i członków aby nie dopuścić do rozmycia tego, co określamy jako niepodlegające zmianom:
+
+1. Demokracja Bezpośrednia nie będzie ubiegała się o władzę wykonawczą, lecz o dokonanie zmian ustrojowych, które pozwolą obywatelom mieć decydujący głos w ich państwie. W związku z tym nasza partia nie podejmie się roli partii rządzącej ani wchodzącej w skład koalicji a nasi posłowie będą wnosili i wspierali wszelkie uregulowania i decyzje przybliżające Polskę do miana kraju demokracji bezpośredniej. Hasłem odzwierciedlającym to postanowienie jest: Teraz wy!
+
+2. Demokracja Bezpośrednia jest partią neutralną światopoglądowo. W związku z tym żadne gremium lub członek nie będą w imieniu partii, w żadnej formie, zajmowali się zagadnieniami wymagającymi określenia stanowiska w kwestiach światopoglądowych. Na wszelkie próby wpływu na członków partii podczas wypowiadania się w imieniu partii aby takie poglądy jednak wyrazili - nie będą ulegali i zastrzegali się iż wyrażają tylko "prywatne zdanie".
+
+3. Jawność i transparentność to podstawa działania naszej partii. W związku z tym żadne gremium lub członek nie będą prowadzili działań w imieniu partii, których przebieg i wyniki będą skrywane przed innymi członkami i gremiami lub dostęp do nich będzie utrudniany. Jawność ta będzie rozciągała się również na ogół społeczeństwa, za wyjątkiem przewidzianych prawem przypadków jej wyłączenia.
