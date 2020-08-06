@@ -1,1 +1,0 @@
-[[Turkusowa (R)ewolucja]]
